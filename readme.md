@@ -1,7 +1,9 @@
 # JmdictDB ID as Frequency for Yomitan
 
 This dictionary was made as a workaround to add [JmdictDB](https://www.edrdg.org/jmdictdb/index.html) IDs for use in [Japanese Kanji Study - 漢字学習](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en_SG/) through anki using the {frequency-average-occurrence} handlebar.
+
 (as a caveat, this dictionary will not work with other frequency dictionaries)
+
 This dictionary extracts the {url} tag from the [Jitendex](https://github.com/stephenmk/Jitendex) dictionary as a base. 
 
 ## Usage
