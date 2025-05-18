@@ -1,0 +1,6 @@
+{"title":"JMdictDB ID as Freq",
+"format":3,
+"revision":"1",
+"frequencyMode":"rank-based",
+"author":"hanif-ok",
+"description":"A workaround for yomitan's anki card creation that uses JMDICT ID spliced from Jitendex url tag with the {averagefrequency} handlebar. Must disable all other numbered frequencies."}
