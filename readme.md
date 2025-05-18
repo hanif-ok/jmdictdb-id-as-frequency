@@ -11,6 +11,7 @@ This dictionary extracts the {url} tag from the [Jitendex](https://github.com/st
 2. Disable all other frequency dictionaries 
 3. In Anki tab of yomitan settings, configure anki flash card and Change Model toKanji Study Word Model v3
 4. change the ID field to {frequency-average-occurrence}
+
 After this, ankidroid cards made with yomitan should be able to open to open the kanji study app by clicking expressions on the back card.
 ## Download
 A.Download the latest release from the release tab
